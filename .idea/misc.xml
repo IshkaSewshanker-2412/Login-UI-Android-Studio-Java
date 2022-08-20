@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ishka/Desktop/YEAR 3 FINAL YEAR/OPSC7311/IcetaskLogin/app/src/main/res/layout/activity_main.xml" value="0.18206521739130435" />
+        <entry key="..\:/YEAR 3 FINAL YEAR/OPSC7311/IcetaskLogin/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.107" />
+        <entry key="..\:/YEAR 3 FINAL YEAR/OPSC7311/IcetaskLogin/app/src/main/res/layout/activity_main.xml" value="0.21" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
